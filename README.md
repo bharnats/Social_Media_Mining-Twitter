@@ -26,11 +26,14 @@ Seaborn
 * A scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point reflects the _compound_ sentiment of a tweet.
 * Each plot point is sorted by its relative timestamp.
-The second plot ![output_10_0.png](output_10_0.png)
+
+# The second plot 
+[Media_tweets](Media_Tweets.png)
 * A bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. 
 * For this plot,the compound sentiments analyzed by VADER are aggregated.
 
 # The final Jupyter notebook contains the following:
+[Twitter_Analysis](twitter_analysis.ipynb)
 
 * Pull last 100 tweets from each outlet.
 * Perform a sentiment analysis with the compound, positive, neutral, and negative scoring for each tweet.
