@@ -1,4 +1,4 @@
-# twitterAnalysis-media
+# Social Analytics-Twitter
 
 # Observable Trends based On the data (Nov'2017)
 
@@ -20,8 +20,8 @@ Tweepy
 VADER Sentiment Analysis
 Seaborn
 
-# The first plot features the following:
-[scatter_plot](Media_Tweets.png)
+# The first plot features the following: ### 
+[Media_tweets](Media_Tweets.png)
 
 * A scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
 * Each plot point reflects the _compound_ sentiment of a tweet.
