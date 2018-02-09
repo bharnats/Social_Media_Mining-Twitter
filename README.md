@@ -28,7 +28,7 @@ Seaborn
 * Each plot point is sorted by its relative timestamp.
 
 # The second plot 
-[Media_tweets](Media_Tweets.png)
+[Media_Sentiments](Media_Sentiments.png)
 * A bar plot visualizing the _overall_ sentiments of the last 100 tweets from each organization. 
 * For this plot,the compound sentiments analyzed by VADER are aggregated.
 
