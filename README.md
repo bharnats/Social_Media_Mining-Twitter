@@ -37,4 +37,9 @@ Create a Python script to perform a sentiment analysis of the Twitter activity o
 * Pull into a DataFrame the tweet's source acount, its text, its date, and its compound, positive, neutral, and negative sentiment scores.
 * Export the data in the DataFrame into a CSV file [Twitter_Data](Twitter_Data)
 * Save PNG images for each plot.
+![BBC_tweets](BBC_Tweets.png)
+![CBS_tweets](CBS_Tweets.png)
+![CNN_tweets](CNN_Tweets.png)
+
+
 
