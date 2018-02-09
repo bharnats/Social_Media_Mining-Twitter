@@ -38,6 +38,6 @@ Seaborn
 * Pull last 100 tweets from each outlet.
 * Perform a sentiment analysis with the compound, positive, neutral, and negative scoring for each tweet.
 * Pull into a DataFrame the tweet's source acount, its text, its date, and its compound, positive, neutral, and negative sentiment scores.
-* Export the data in the DataFrame into a CSV file.
+* Export the data in the DataFrame into a CSV file[Twitter_Data](Twitter_Data)
 * Save PNG images for each plot.
 
