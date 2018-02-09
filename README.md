@@ -1,6 +1,6 @@
 # twitterAnalysis-media
 
-# Observable Trends based On the data (Dec'2017)
+# Observable Trends based On the data (Nov'2017)
 
 * CBSNews and CNN express negative sentiment in their recent 100 tweets and The New York Times expresses a close neutral sentiment possible.
 * Fox and BBCWorld express positive sentiment in their recent 100 tweets.
