@@ -40,6 +40,8 @@ Create a Python script to perform a sentiment analysis of the Twitter activity o
 ![BBC_tweets](BBC_Tweets.png)
 ![CBS_tweets](CBS_Tweets.png)
 ![CNN_tweets](CNN_Tweets.png)
+![Fox_tweets](Fox_Tweets.png)
+![NYT_tweets](NYT_Tweets.png)
 
 
 
