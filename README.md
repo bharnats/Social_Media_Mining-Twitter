@@ -6,7 +6,7 @@
 * Fox news channel expresses that all is well in United States and BBCWorld reflects the overall growth and progression of the entire world.
  
  ## Background 
- __Twitter__ has become a wildly sprawling jungle of information  Somewhere between 350 million and 500 million tweets are estimated to be sent out _per day_. With such an explosion of data, on Twitter and elsewhere, it becomes more important than ever to tame it in some way, to concisely capture the essence of the data.
+ __Twitter__ has become a wildly sprawling jungle of information. Somewhere between 350 million and 500 million tweets are estimated to be sent out _per day_. With such an explosion of data, on Twitter and elsewhere, it becomes more important than ever to tame it in some way, to concisely capture the essence of the data.
  
 ## Objective
 Create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present the findings visually.
