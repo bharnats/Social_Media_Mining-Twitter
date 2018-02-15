@@ -9,7 +9,7 @@
  __Twitter__ has become a wildly sprawling jungle of information. Somewhere between 350 million and 500 million tweets are estimated to be sent out _per day_. With such an explosion of data, on Twitter and elsewhere, it becomes more important than ever to tame it in some way, to concisely capture the essence of the data.
  
 ## Objective
-Create a Python script to perform a sentiment analysis of the Twitter activity of various news oulets, and to present the findings visually.
+Create a Python script to perform a sentiment analysis of the Twitter activity of various news outlets, and to present the findings visually.
 * The python code generated is meant to provide a cursory look at the world mood according to the Twitter profiles of news agencies.The final output provides a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
 
 ## Notable libraries used to complete this application:
